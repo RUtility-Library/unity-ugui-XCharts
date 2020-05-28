@@ -5,4 +5,10 @@
   "unity": "2019.2",
   "keywords": ["UI", "ugui", "Unity UI", "Canvas"],
   "description": "测试插件",
+  "repository":{
+  "revision":"dasfsdfadfadfadf3234134",
+    "type":"git",
+    "url":"https://github.com/RUtility-Library/unity-ugui-XCharts.git"
+  
+  }
 }
